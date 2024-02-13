@@ -19,6 +19,8 @@ body {
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
+  width: 100px;
+  height: 100px;
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
